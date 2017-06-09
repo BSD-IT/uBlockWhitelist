@@ -3,4 +3,4 @@
 ! Expires: 5 days (update frequency)
 ! Version: 1
 ||cnn.com/*
-@@||google-analytics.com^$document
+@@||www.google-analytics.com/analytics.js$script,domain=teachersource.beaverton.k12.or.us
