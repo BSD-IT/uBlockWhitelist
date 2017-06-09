@@ -3,6 +3,7 @@
 ! Expires: 5 days (update frequency)
 ! Version: 1
 ||cnn.com/*
-@@||www.google-analytics.com/analytics.js$script,domain=teachersource.beaverton.k12.or.us
-! 6/9/2017, 1:25:58 PM beaverton.k12.or.us
-@@||www.google-analytics.com/analytics.js$script
+@@||www.google*.com
+@@||*.google.com
+@@||analytics.google.com^$script
+@@||google-analytics.com^$script
