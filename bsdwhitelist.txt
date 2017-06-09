@@ -3,6 +3,7 @@
 ! Expires: 5 days (update frequency)
 ! Version: 1
 ! Last Updated: 06/09/2017
+||cnn.com/*
 @@||adobe.com
 @@||app.gonoodle.com
 @@||fastbridge.org
