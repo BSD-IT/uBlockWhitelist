@@ -20,3 +20,4 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.purposegames.com
 @@||stats.g.doubleclick.net$image,domain=www.purposegames.com
 @@||frontrowed.com
+@@||na01.safelinks.protection.outlook.com
