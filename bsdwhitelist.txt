@@ -21,3 +21,4 @@
 @@||stats.g.doubleclick.net$image,domain=www.purposegames.com
 @@||frontrowed.com
 @@||safelinks.protection.outlook.com
+@@||microsoft.com
