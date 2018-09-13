@@ -24,3 +24,4 @@
 @@||microsoft.com
 @@||applitrack.com
 @@||frontlineeducation.com
+@@||googletagmanager.com
