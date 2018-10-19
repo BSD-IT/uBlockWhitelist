@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Beaverton School District Whitelist
 ! Expires: 1 days (update frequency)
-! Version: 16
-! Last Updated: 10/16/2018
+! Version: 17
+! Last Updated: 10/18/2018
 @@||adobe.com
 @@||app.gonoodle.com
 @@||beaverton.k12.or.us
@@ -28,3 +28,4 @@
 @@||app.pendo.io
 @@||history.com
 @@||clever.com
+@@||cloudfront.net
