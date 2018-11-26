@@ -30,3 +30,4 @@
 @@||clever.com
 @@||cloudfront.net
 @@||mcgraw-hill.com
+@@||instructure.com
