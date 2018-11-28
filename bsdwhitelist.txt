@@ -31,3 +31,4 @@
 @@||cloudfront.net
 @@||mcgraw-hill.com
 @@||instructure.com
+@@||outlook.office.com
