@@ -39,3 +39,5 @@
 @@||finalsite.com
 @@||google-analytics.com
 @@||sites.google.com/beaverton.k12.or.us
+@@||typekit.net
+@@||newrelic.com
