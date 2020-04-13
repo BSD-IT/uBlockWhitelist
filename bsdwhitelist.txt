@@ -51,3 +51,4 @@
 @@||adobetm.com
 @@||cdnjs.cloudflare.com
 @@||audioeye.com
+@@||musiclab.chromeexperiments.com
