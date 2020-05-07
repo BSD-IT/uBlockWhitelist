@@ -55,3 +55,4 @@
 @@||gweb-musiclab-site.appspot.com
 @@||cloudflare.com
 @@||ajax.googleapis.com
+@@||fonts.googleapis.com
