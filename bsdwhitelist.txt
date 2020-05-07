@@ -2,7 +2,7 @@
 ! Title: Beaverton School District Whitelist
 ! Expires: 1 days (update frequency)
 ! Version: 27
-! Last Updated: 3/6/2020
+! Last Updated: 5/7/2020
 @@||adobe.com
 @@||adobedtm.com
 @@||spark.adobe.com
