@@ -54,3 +54,4 @@
 @@||musiclab.chromeexperiments.com
 @@||gweb-musiclab-site.appspot.com
 @@||cloudflare.com
+@@||ajax.googleapis.com
