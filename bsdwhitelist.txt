@@ -53,4 +53,5 @@
 @@||audioeye.com
 @@||musiclab.chromeexperiments.com
 @@||gweb-musiclab-site.appspot.com
-@@||cdnjs.cloudflare.com/ajax/libs/angulartics-google-analytics/0.1.4/angulartics-google-analytics.min.js$script,domain=musiclab.chromeexperiments.com
+@@||cdnjs.cloudflare.com/ajax/libs/angulartics-google-analytics/0.1.4/angulartics-google-@@||analytics.min.js$script,domain=musiclab.chromeexperiments.com
+@@||outlook.com
