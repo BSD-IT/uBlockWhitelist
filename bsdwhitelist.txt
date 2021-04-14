@@ -66,3 +66,7 @@
 @@||goformative.com
 @@||covidvaccine.oregon.gov
 @@||oregon.gov
+@@||docs.google.com
+@@||slides.google.com
+@@||sheets.google.com
+@@||drive.google.com
